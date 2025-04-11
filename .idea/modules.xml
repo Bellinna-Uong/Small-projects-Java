@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Small-projects-Java.iml" filepath="$PROJECT_DIR$/.idea/Small-projects-Java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/WeatherApp/WeatherApp.iml" filepath="$PROJECT_DIR$/WeatherApp/WeatherApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Easy/WeatherApp/WeatherApp.iml" filepath="$PROJECT_DIR$/Easy/WeatherApp/WeatherApp.iml" />
     </modules>
   </component>
 </project>
